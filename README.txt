@@ -1,0 +1,1 @@
+This project is for [BISM7255] Business Information Systems Analysis and Design. I use Enterprise Architect for drawing UMLs.
